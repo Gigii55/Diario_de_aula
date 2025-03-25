@@ -13,46 +13,69 @@ Modelos Tradicionais e Ágeis
 
 ////
 
+
+*** O professor destacou os quatro valores do Manifesto Ágil ***
+
+- Indivíduos e interações mais que processos e ferramentas.
+
+-Software em funcionamento mais que documentação abrangente.
+
+-Colaboração com o cliente mais que negociação de contratos.
+
+-Resposta a mudanças mais que seguir um plano.
+
+*** A partir desse conceito, analisamos metodologias como Scrum, Kanban, XP e Cascata. ***
+
+** MODELO CASCATA **
+
 O Modelo em Cascata segue uma abordagem linear e sequencial, em que cada fase deve ser concluída antes do início de uma possivel próxima.
-Pontos Positivos:
-Simplicidade e Clareza: A abordagem estruturada facilita a compreensão e gestão do projeto.
-Documentação Detalhada: Cada fase é bem documentada, o que ajuda na manutenção e na transição de equipe.
-Previsibilidade: Possibilita a estimativa precisa de custos e prazos, desde que os requisitos estejam bem definidos.
-Controle: A divisão em fases distintas permite a identificação precoce de problemas.
-Pontos Negativos:
-Rigidez: Pouca flexibilidade para mudanças; alterações podem demandar a reinicialização de várias etapas.
-Demora: O tempo de execução pode ser longo, já que uma fase precisa ser concluída antes de outra iniciar.
-Pouca Adaptabilidade: Não é ideal para projetos com requisitos mutáveis.
-Indicado para Trabalho Individual: Não recomendado para equipes devido à sua rigidez.
-Metodologias Ágeis
-O professor destacou os quatro valores do Manifesto Ágil:
-Indivíduos e interações mais que processos e ferramentas.
-Software em funcionamento mais que documentação abrangente.
-Colaboração com o cliente mais que negociação de contratos.
-Resposta a mudanças mais que seguir um plano.
-A partir desse conceito, analisamos metodologias como Scrum, Kanban e XP.
-Pontos Positivos:
-Flexibilidade: Permite revisões constantes e adaptações com base no feedback do cliente.
-Incremental: O produto é entregue em partes funcionais, facilitando ajustes contínuos.
-Engajamento do Cliente: Garante que o resultado atenda melhor às necessidades dos usuários.
-Redução de Riscos: Problemas são identificados e corrigidos em ciclos menores.
-Pontos Negativos:
-Requer Mais Tempo: A interação constante pode prolongar o desenvolvimento.
-Demandas do Cliente: O envolvimento frequente pode ser desafiador.
-Complexidade do Planejamento: Difícil prever prazos e custos com precisão.
-Sobrecarga de Alterações: Mudanças excessivas podem comprometer a visão geral do projeto.
-Modelo Iterativo e Incremental
-Esse modelo foca em desenvolvimento cíclico, onde as funcionalidades são entregues progressivamente.
-Pontos Positivos:
-Análise de Riscos: Identifica e mitiga riscos desde o início.
-Flexibilidade: Ajustes podem ser feitos conforme as necessidades mudam.
-Prototipagem: Proporciona feedback contínuo por meio de versões funcionais.
-Iterativo: Permite melhorias incrementais no produto.
-Pontos Negativos:
-Complexidade: Requer uma gestão eficiente para coordenar as fases.
-Custo e Tempo: A análise de riscos e a prototipagem podem aumentar os custos e o prazo.
-Dependência de Especialistas: Exige profissionais experientes para a gestão do processo.
-Conclusão
+
+* Pontos Positivos *
+
+- Simplicidade e ser claro: A abordagem estruturada facilita a compreensão e gestão do projeto.
+
+- Documentação Detalhada: Cada fase é bem documentada, o que ajuda na manutenção e na transição de equipe.
+
+-É previsível: Possibilita a estimativa precisa de custos e prazos, desde que os requisitos estejam bem definidos.
+
+- Controle: A divisão em fases distintas permite a identificação precoce de problemas.
+
+* Pontos Negativos *
+
+-Rigidez: Pouca flexibilidade para mudanças; alterações podem demandar a reinicialização de várias etapas.
+
+-Demora: O tempo de execução pode ser longo, já que uma fase precisa ser concluída antes de outra iniciar.
+
+-Pouca Adaptabilidade: Não é ideal para projetos com requisitos mutáveis.
+
+-Indicado para Trabalho Individual: Não recomendado para equipes devido à sua rigidez.
+Metodologias Ágeis.
+
+ ///////////////////////////////
+
+** MODELO INTERATIVO **
+
+* Pontos Positivos *
+
+-Flexibilidade: Permite revisões constantes e adaptações com base no feedback do cliente.
+
+-Incremental: O produto é entregue em partes funcionais, facilitando ajustes contínuos.
+
+-Engajamento do Cliente: Garante que o resultado atenda melhor às necessidades dos usuários.
+
+-Redução de Riscos: Problemas são identificados e corrigidos em ciclos menores.
+
+* Pontos Negativos *
+
+-Requer Mais Tempo: A interação constante pode prolongar o desenvolvimento.
+
+-Demandas do Cliente: O envolvimento frequente pode ser desafiador.
+
+-Complexidade do Planejamento: Difícil prever prazos e custos com precisão.
+
+-Sobrecarga de Alterações: Mudanças excessivas podem comprometer a visão geral do projeto.
+
+
 Finalizamos a aula com uma discussão sobre SDLC e metodologias auxiliares, reforçando o aprendizado e esclarecendo dúvidas. A abordagem comparativa entre os diferentes modelos e metodologias ajudou a compreender os desafios e benefícios de cada um, fornecendo uma base sólida para a aplicação em projetos reais.
 
 
