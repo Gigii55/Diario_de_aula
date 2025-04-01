@@ -1,0 +1,21 @@
+hoje faremos a entrevista com o Edmar, contudo, tivemos uma revisão sobre  os tipos de levantamentos de requisitos. Para ter um bom desempenho 
+no leventamento de requisitos com o método de entrevista, é indicado que antes seja feita uma pesquisa de marcado e ter estudado engenharia de requisitos. 
+
+RASCUNHO DE REQUISITOS IMPOSTOS PELO BATE PAPO COM O EDMAR: 
+https://docs.google.com/document/d/1c1KubEjQ-R82bHYnJ6TnJ3zpVH4pThSVGMNle6K5dF0/edit?usp=sharing
+
+Após o rascunho dos requisitos, que foram coletados após o Edmar falar sobre problemas e após perguntas dos demais colegas, o Edmar foi de equipe 
+por equipe sanando dúvidas sobre o problema que foi apresentado, na nossa vez, o questionamos com perguntas como:
+
+SERIA UM SITE OU APLICATIVO?
+segundo ele, não faria diferença, desde que sejam acessíveis. 
+
+QUEM TERIA ACESSO A ESSA APLICAÇÃO? SÓ SERVIDORES, OU ALUNOS TAMBÉM?
+segundo Edmar, tanto servidores quanto alunos teriam acesso à aplicação, e a mesma daria a possibilidade do aluno fazer requisições 
+no sistema de forma remota.
+
+VAI TER ALGUMA INTEGRAÇÃO COM SISTEMAS DO IF?
+sim, poderia ser integrado com o Suap. 
+
+ENTÃO, A PARTIR DISSO, VAMOS COMEÇAR A LEVANTAR OS REQUISITOS FUNCIONAIS, NÃO FUNCIONAIS E DE DOMÍNIO DA APLICAÇÃO. 
+
