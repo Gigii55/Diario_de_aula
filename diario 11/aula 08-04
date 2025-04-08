@@ -1,0 +1,23 @@
+TECNICAS DE LEVANTAMENTO DE REQUISITOS
+
+- temos que deixar o requisito rastreavel, para que o mesmo seja de fácil identificação, sendo claro, focado e unico.
+- precisamos decompor o requisito em pequenas partes e refinar ele posteriormente.
+
+fases: 
+
+1- definir a rastreabilidaadae --> identificação (LRE000 levantamento específico de requisitos ou RLP levantamento 
+principal de requisitos), para deixar rasreavel, temos que fazer a decomposição. 
+
+2- identificar cada requisito principal.
+
+3- especificação --> quebrar em partes menores, com hierarquias, tendo requisitos submissos a outros. 
+
+4-  identificação dos atores --> vou classificar grupos. Atores importantes: usuario final e administrador. Quando se 
+inclui atores, temos noção do tamanho do sistema. 
+
+5- complementação funcional --> quais foram as funcionalidades exigidas pelo cliente. 
+
+6- funcionalidades fora do escopo inicial --> exigencias que estão fora do objetivo principal do sistema, ou seja,
+ele pode ser agregado ao sistema, mas não é necessário, tem que discutir custos com o cliente. 
+
+7- validação e verificação --> retirar coisas desnecessárias e refinar o escopo. 
