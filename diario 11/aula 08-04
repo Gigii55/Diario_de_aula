@@ -127,3 +127,52 @@ LEVANTAMENTO DE REQUISITOS DO CLIENTE EDMAR:
 [LRE001] - Diferenciar no sistema os livros emprestados pela Assistência e pela Biblioteca.
 [LRE002] - Associar os livros obrigatórios como responsabilidade da Assistência.
 [LRE003] - Impedir empréstimo de livros didáticos pela Biblioteca, se já registrados na Assistência.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+** AULA PARTE 2 ** ANALISE DE REQUISITOS
+
+------------------------------------------------------------------------------------------------------------------------
+
+FASE 1
+##Documentação dos requisitos-
+##Feito por pessoas de alto nivel, que estão acima do projeto
+##Devem seguir um padrão nacional para que não haja erros
+
+FASE 2
+## CADASTRO ENTIDADES --> Cadastra informações dos sistemas, um resgitro de dados de entidades  
+(Entidade representa um objeto algo que podem ser separado em classes EXEMPLO: usuario, aluno, equipes).
+
+##Entidade concreta: Algo fisico
+##Entidade imaginaria: Algo que n é tocavel(como o TRABALHO)
+
+FASE 3
+- IDENTIFICAÇÃO DE DEPENDENCIAS/CORRELAÇÕES -
+
+## Determina as relações entre as entidades do projeto
+
+EXEMPLO: para realizar uma reserva é necessario um cliente.
+
+FASE 4
+
+-DEFINIÇÃO DE CAMPOS E CARACTERISTICAS-
+
+## Define campos de caracteristicas das entidades, algo que deve ser informado
+## Pode ser informado pelo cliente mas pode ser definido pelo analista.
+
+EXEMPLO: [ARR-001] Cadastro de cliente - campos *Nome,  *CPF, telefone
+
+
+FASE 5
+-REGRAS DE NEGOCIO-
+## Limite dos requisitows, sempre se relacionando com os requisitos funcionais. 
+
+FASE 6
+-IDENTIFICAÇÃO DOS REQUISITOS NÃO FUNCIONAIS-
+## Não são uma funcionalidade mas se relacionam, podem se relacionar com: tempo, segurança, usabilidade, disponibilidade, compatibilidade
+## servem para manter a qualidade do sistema
+## colocar somente se necessario
+
+FASE 7
+- FORMATAÇÃO - 
+## Impor um padrão no documento, visando trazer organização para o mesmo.
