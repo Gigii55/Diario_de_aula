@@ -1,0 +1,74 @@
+DIÁRIO DE AULA 22/04/2025
+AUTOAVALIACAO: DEV (B)
+------------------------------------------
+OQ É DIAGRAMA DE CASOSO DE USO? 
+
+é um tipo de diagrama da UML que descreve as funcionalidades de um sistema, tendo como perspectiva os atores (usuários). 
+para que serve a UML:  para ser pratico, facil e visual.
+
+estruturais e comportamentais: as estruturais definem toda a estrutura do sistema (diagrama de classes), sendo um diagrama mais tecnico.
+Os comportamentais, define os comporatmentos do sistema (é mais proximo do usuário e menos tecnico), 
+
+qual a fonte das informações?
+comunicação (assim como também é o desafio)
+
+
+-------------------------------------------------
+
+@startuml
+
+left to right direction
+
+
+actor cli as "Cliente"
+actor adm as "Administrador"
+actor func as "Funcionario"
+
+
+
+rectangle "Sistema de Reserva de Quadra" {
+
+    usecase "Consultar calendario" as cu01
+    usecase "Buscar reserva" as cu02
+    usecase "Realizar reserva" as cu03
+    usecase "Verificar disponibilidade" as cu04
+    usecase "Cancelar reserva" as cu05
+    usecase "Gerenciar todas reservas" as cu06
+    usecase "Cadastrar quadra" as cu07
+    usecase "Gerenciar Pagamento" as cu08
+    usecase "Manutenir materiais" as cu09
+    usecase "Cancelar Pagamento" as cu10
+    usecase "Escolher Quadra" as cu11
+    usecase "Reagendar Reserva" as cu12
+
+    cu03 .> cu04 : <<include>>
+    cu05 <. cu02 : <<extends>> 
+    
+    cu08 <. cu10 : <<extends>> 
+    cu08 .> cu03 : <<include>>
+
+    cu03 .> cu11 : <<include>>
+    cu03 <. cu12 : <<extends>> 
+    
+     }
+
+cli --> cu01
+cli --> cu02
+cli --> cu03
+cli --> cu04
+cli --> cu05
+
+adm --|> cli
+adm --> cu06
+adm --> cu07
+
+
+func --> cu08
+func --> cu09
+adm --|> func
+
+
+
+
+@enduml
+
